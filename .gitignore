@@ -1,0 +1,12 @@
+KinectStreams/bin/Debug/results/*.csv
+KinectStreams/bin/Debug/results/*.mp4
+KinectStreams/bin/Debug/pictures/*.png
+KinectStreams/bin/Debug/pictures/flip/*.png
+KinectStreams/bin/Release/results/*.csv
+KinectStreams/bin/Release/results/*.mp4
+KinectStreams/bin/Release/pictures/*.png
+KinectStreams/bin/Release/pictures/flip/*.png
+KinectStreams/obj
+KinectStreams/bin/
+packages/
+.vs/KinectStreams/v15/
